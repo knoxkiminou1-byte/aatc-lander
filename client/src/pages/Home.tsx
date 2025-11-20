@@ -172,8 +172,8 @@ export default function Home() {
 
         <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           {/* Main Tagline */}
-          <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black mb-4 leading-tight text-white animate-fade-in-delayed block">
-            ARTISTS AND ATHLETES FOR CHANGE
+          <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black mb-4 leading-tight text-white animate-fade-in-delayed block uppercase">
+            Artists and Athletes for Change
           </h1>
 
           <p className="text-2xl sm:text-3xl lg:text-4xl mb-8 font-bold text-[#E3A857] animate-fade-in-delayed-2">
