@@ -377,24 +377,24 @@ export default function Home() {
         <div className="max-w-6xl mx-auto">
           <div className="grid md:grid-cols-3 gap-8 mb-8">
             <div>
-              <h4 className="text-white font-bold mb-4">About AAFC</h4>
+              <h4 className="text-[#E3A857] text-lg font-semibold mb-4 tracking-wide">About AAFC</h4>
               <p className="text-sm leading-relaxed">
                 AAFC empowers youth through arts, athletics, and innovation to build sustainable futures and create lasting community impact.
               </p>
             </div>
             <div>
-              <h4 className="text-white font-bold mb-4">Programs</h4>
+              <h4 className="text-[#E3A857] text-lg font-semibold mb-4 tracking-wide">Programs</h4>
               <ul className="text-sm space-y-2">
-                <li><a href="#programs" className="hover:text-white transition">Creative and Digital Innovation</a></li>
-                <li><a href="#programs" className="hover:text-white transition">Athletic Leadership and Technology</a></li>
-                <li><a href="#programs" className="hover:text-white transition">Innovation and Community Impact</a></li>
+                <li><a href="#programs" className="hover:text-[#E3A857] transition">Creative and Digital Innovation</a></li>
+                <li><a href="#programs" className="hover:text-[#E3A857] transition">Athletic Leadership and Technology</a></li>
+                <li><a href="#programs" className="hover:text-[#E3A857] transition">Innovation and Community Impact</a></li>
               </ul>
             </div>
             <div>
-              <h4 className="text-white font-bold mb-4">Get Involved</h4>
+              <h4 className="text-[#E3A857] text-lg font-semibold mb-4 tracking-wide">Get Involved</h4>
               <ul className="text-sm space-y-2">
-                <li><a href="#join" className="hover:text-white transition">Apply Now</a></li>
-                <li><a href="#join" className="hover:text-white transition">Partner with Us</a></li>
+                <li><a href="#join" className="hover:text-[#E3A857] transition">Apply Now</a></li>
+                <li><a href="#join" className="hover:text-[#E3A857] transition">Partner with Us</a></li>
               </ul>
             </div>
 
